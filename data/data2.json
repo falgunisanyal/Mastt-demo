@@ -1,0 +1,100 @@
+[
+  {
+    "_id": { "$oid": "5d9996e726ff8727fcc09348" },
+    "title": "claim2",
+    "amount": 4392,
+    "status": "REJECTED",
+    "createdAt": "2019-10-09T13:00:00.000Z",
+    "updatedAt": "2019-10-09T13:00:00.000Z"
+  },
+  {
+    "_id": { "$oid": "5d9ab48d762d1b1ed4287880" },
+    "status": "SUBMITTED",
+    "title": "claim1",
+    "amount": 6789,
+    "createdAt": "2019-10-07T03:44:13.616Z",
+    "updatedAt": "2019-10-07T03:44:13.616Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9b1879bdb1f700cc49ec87" },
+    "status": "DRAFT",
+    "title": "claim3",
+    "amount": 2911,
+    "createdAt": "2019-10-07T10:50:33.409Z",
+    "updatedAt": "2019-10-07T10:50:33.409Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d861c7ea0794830bb54f1" },
+    "status": "APPROVED",
+    "title": "claim4",
+    "amount": 5362,
+    "createdAt": "2019-10-09T07:02:52.068Z",
+    "updatedAt": "2019-10-25T07:02:52.068Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d86267ea0794830bb54f2" },
+    "status": "PAID",
+    "title": "claim5",
+    "amount": 9933,
+    "createdAt": "2019-10-09T07:03:02.198Z",
+    "updatedAt": "2019-10-09T07:03:02.198Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d8b138cc8544848d2f5a8" },
+    "status": "PAID",
+    "title": "claim6",
+    "amount": 333,
+    "createdAt": "2019-10-09T07:24:03.316Z",
+    "updatedAt": "2019-10-09T07:24:03.316Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d8b288cc8544848d2f5a9" },
+    "status": "APPROVED",
+    "title": "claim7",
+    "amount": 495,
+    "createdAt": "2019-10-09T07:24:24.455Z",
+    "updatedAt": "2019-10-09T07:24:24.455Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d8b7b8cc8544848d2f5aa" },
+    "status": "SUBMITTED",
+    "title": "claim8",
+    "amount": 527,
+    "createdAt": "2019-10-09T07:25:47.839Z",
+    "updatedAt": "2019-10-09T07:25:47.839Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d8b868cc8544848d2f5ab" },
+    "status": "DRAFT",
+    "title": "claim9",
+    "amount": 432,
+    "createdAt": "2019-10-09T07:25:58.752Z",
+    "updatedAt": "2019-10-09T07:25:58.752Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5d9d8beea5f8f03c5c6923f8" },
+    "status": "REJECTED",
+    "title": "claim10",
+    "amount": 172,
+    "createdAt": "2019-10-09T07:27:42.924Z",
+    "updatedAt": "2019-10-09T07:27:42.924Z",
+    "__v": 0
+  },
+  {
+    "_id": { "$oid": "5da511a9096d7e2be02ed456" },
+    "status": "SUBMITTED",
+    "title": "claim11",
+    "amount": 3666,
+    "createdAt": "2019-10-15T00:24:09.442Z",
+    "updatedAt": "2019-10-15T00:24:09.442Z",
+    "__v": 0
+  }
+]

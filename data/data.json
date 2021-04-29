@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Budget",
+    "values": [
+      { "date": "January", "price": "100" },
+      { "date": "February", "price": "100" },
+      { "date": "March", "price": "100" },
+      { "date": "April", "price": "100" },
+      { "date": "May", "price": "100" },
+      { "date": "June", "price": "100" },
+      { "date": "July", "price": "100" },
+      { "date": "August", "price": "100" },
+      { "date": "September", "price": "100" },
+      { "date": "October", "price": "100" },
+      { "date": "November", "price": "100" },
+      { "date": "December", "price": "100" }
+    ]
+  },
+  {
+    "name": "Forecasts",
+    "values": [
+      { "date": "January", "price": "100" },
+      { "date": "February", "price": "80" },
+      { "date": "March", "price": "55" },
+      { "date": "April", "price": "40" },
+      { "date": "May", "price": "32" },
+      { "date": "June", "price": "20" },
+      { "date": "July", "price": "14" },
+      { "date": "August", "price": "12" },
+      { "date": "September", "price": "8" },
+      { "date": "October", "price": "4" },
+      { "date": "November", "price": "3" },
+      { "date": "December", "price": "2" }
+    ]
+  },
+  {
+    "name": "Current Contract",
+    "values": [
+      { "date": "February", "price": "40" },
+      { "date": "March", "price": "50" },
+      { "date": "April", "price": "55" },
+      { "date": "May", "price": "60" },
+      { "date": "June", "price": "60" },
+      { "date": "July", "price": "60" },
+      { "date": "August", "price": "60" },
+      { "date": "September", "price": "60" },
+      { "date": "October", "price": "60" }
+    ]
+  },
+  {
+    "name": "Commitments",
+    "values": [
+      { "date": "March", "price": "40" },
+      { "date": "April", "price": "44" },
+      { "date": "May", "price": "50" },
+      { "date": "July", "price": "55" },
+      { "date": "August", "price": "55" },
+      { "date": "September", "price": "55" },
+      { "date": "October", "price": "55" }
+    ]
+  }
+]
