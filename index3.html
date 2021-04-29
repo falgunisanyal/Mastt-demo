@@ -1,0 +1,35 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Mastt</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <ul>
+      <li><a class="active" href="./index.html">Visualisation 1</a></li>
+      <li><a class="active" href="./index2.html">Visualisation 2</a></li>
+      <li><a class="active" href="./index3.html">Visualisation 3</a></li>
+      <li style="float:right;"><a class="active" href="https://github.com/NafisAli/mastt-demo" target="_blank">Source</a></li>
+    </ul>
+    <div class="chart" id="viz3"></div>
+    <div class="description">
+      <p>
+        This visualisation concept shows the program and projects along with different user groups
+      </p>
+      <br />
+      <p>
+        This is a concept of network graph. On a program level the center node represents the program with all the projects connected around it. All other nodes are different users
+        based on their permission levels and are also color coded. The links between the users and other nodes represents average user activity(average hours spent on the system)
+        by modifying the link thickness. A thicker link indicates higher level of activity. This way the viewer can quickly identify active users. For more concrete information,
+        hovering over any node will show details in a popup
+      </p>
+    </div>
+  </body>
+
+  <script src="./scripts/viz3.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</html>

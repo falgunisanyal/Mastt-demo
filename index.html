@@ -1,0 +1,36 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Mastt</title>
+
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
+  </head>
+  <body>
+    <ul>
+      <li><a class="active" href="./index.html">Visualisation 1</a></li>
+      <li><a class="active" href="./index2.html">Visualisation 2</a></li>
+      <li><a class="active" href="./index3.html">Visualisation 3</a></li>
+      <li style="float:right;"><a class="active" href="https://github.com/NafisAli/mastt-demo" target="_blank">Source</a></li>
+    </ul>
+    <div class="chart" id="viz1"></div>
+    <div class="description">
+      <p>
+        This visualisation is intended to give users a brief overview of the current status of the project and give them a better understanding of how it is faring in terms of
+        finance at a glance
+      </p>
+      <br />
+      <p>
+        There are two axes where the horizontal axis depicts months of a year and the vertical axis depicts value in terms of money. There are four different aspects in this
+        visualisation. With three of them being line chart, and one line chart with an area shown below it. The first line shows the budget of a project throughout the current
+        year. The second line indicates the forecast for each month of that project. Then the line “Current Contract” shows the amount of contracts created for the project during
+        that month. Where as the “Commitments” line shows the amount spent for that project during that month. There is also a vertical line indicating current month
+      </p>
+    </div>
+  </body>
+
+  <script src="./scripts/viz1.js"></script>
+  <link rel="stylesheet" href="style.css" />
+</html>
