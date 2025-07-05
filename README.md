@@ -1,5 +1,5 @@
 # Mastt Project Management Visualisation
-##Capstone Project, University of Sydney
+**Capstone Project, University of Sydney**
 ### Contributors: Falguni Sanyal,Nafis Ali, S M Nabil Fahajan
 
 ##Links to preview: https://falgunisanyal.github.io/Mastt-demo/
